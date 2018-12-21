@@ -1,2 +1,0 @@
-webpackJsonp([5],{"67NO":function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){this.$createElement;this._self._c;return this._m(0)},staticRenderFns:[function(){var e=this.$createElement,t=this._self._c||e;return t("div",{staticClass:"part-one"},[t("p",[this._v("第三部分")])])}]};var s=n("VU/8")({name:"PartTree"},r,!1,function(e){n("FqvR")},"data-v-23fb61c0",null);t.default=s.exports},FqvR:function(e,t){}});
-//# sourceMappingURL=5.a288e526e4ad5ae08f60.js.map
