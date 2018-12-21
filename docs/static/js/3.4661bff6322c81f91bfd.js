@@ -1,2 +1,0 @@
-webpackJsonp([3],{PmAL:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){this.$createElement;this._self._c;return this._m(0)},staticRenderFns:[function(){var e=this.$createElement,t=this._self._c||e;return t("div",{staticClass:"part-one"},[t("p",[this._v("第四部分")])])}]};var s=n("VU/8")({name:"PartFour"},r,!1,function(e){n("oPe8")},"data-v-6d03dee0",null);t.default=s.exports},oPe8:function(e,t){}});
-//# sourceMappingURL=3.4661bff6322c81f91bfd.js.map
